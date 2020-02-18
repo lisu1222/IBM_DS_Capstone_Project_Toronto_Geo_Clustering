@@ -11,7 +11,7 @@ This project is an IBM Data Science capstone project that includes web scraping,
 - Transformed column 'Neighbourhood' to usable formats
 - Added latitude and longitude columns by using Google API to loop through each address
 - Cleaned the json data extracted with Foursquare API and structured into dataframes
-### Analyze each Neighborhood
+### Analyze and Visualize Neighborhoods
 - Identified each neighborhood's nearby venues
 - One-hot encoding to find out categories of venues in each neighborhood and scored frequency
 - Found out the top 5 most common venues for each neighborhood 
