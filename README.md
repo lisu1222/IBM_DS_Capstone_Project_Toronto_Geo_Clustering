@@ -6,7 +6,7 @@ This project is an IBM Data Science capstone project that includes web scraping,
 - Google API was applied to get latitude and longitude values for each neighbourhood in Toronto.
 - Foursquare API was applied to explore venues in Toronto.
 ### Data Preprocessing and Cleaning
-- Drop raws without neighborhood information.
+- Dropped raws without neighborhood information.
 - Dealt with missing and duplicated values.
 - Transformed column 'Neighbourhood' to usable formats
 - Added latitude and longitude columns by using Google API to loop through each address
