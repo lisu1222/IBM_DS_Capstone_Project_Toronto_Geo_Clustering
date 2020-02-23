@@ -1,4 +1,4 @@
-# Capstone Projects
+# Capstone Project
 ## Toronto Geo Clustering 
 This project is an IBM Data Science capstone project that includes web scraping, data preprocessing and clustering analysis.
 ### Data Source
